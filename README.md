@@ -14,7 +14,7 @@
 2. Run `pip install -r ffmpeg`.
 
 ## Running the script
-1. Open the directory in your preferred terminal.
+1. Open the directory in your preferred terminal. (e.g. cmd)
 
 2. Run `python main.py`.
 
